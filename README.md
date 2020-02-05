@@ -22,7 +22,7 @@
 
 - SL(Statistical Learning)
 <img src="https://user-images.githubusercontent.com/43984584/73838510-2ea2d780-4857-11ea-9c3b-74808de00b22.png">
-*** 
+```
     Supervised learning: Prediction(예측)
     - t-test: 일표본, 독립, 쌍, 비모수
     - ANOVA: ANOVA, MANOVA, ANCOVA, MANCOVA
@@ -30,8 +30,8 @@
     - 다중 선형 회귀
     - Timeseries 
         - Practice(실습): Pre류diction for the stock price of Samsung electronics(삼성전자 주식 가격을 예측해보자)
-*** 
-*** 
+```
+```
     Supervised learning: Classification(분류)
     - 카이 제곱 검정
     - 로지스틱 회귀
@@ -39,8 +39,8 @@
     - SVM
     - 선형 판별 분석(LDA)
     - 분류 방법의 비교 
-*** 
-*** 
+```
+```
     Unsupervised learning: 
     - 그룹화(Grouping)
     - 파티션 클러스터링(k 평균 클러스터링)
@@ -53,7 +53,7 @@
     - 확인 요인 분석 (CFA)
     - 독립 성분 분석 (ICA)
     - MDS (Multi-Dimensional Scalling)
-*** 
+```
 - ML(Machine learning)
     - Scikit-learn
     
